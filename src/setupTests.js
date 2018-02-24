@@ -1,4 +1,4 @@
-//this file solves some issues with enzyme 3
+// this file solves some issues with enzyme 3
 
 import requestAnimationFrame from './tempPolyfills'
 import { configure } from 'enzyme'
